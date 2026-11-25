@@ -1,1 +1,7 @@
-
+python-dotenv
+requests
+pandas
+pydantic
+openai
+ddgs
+composio
